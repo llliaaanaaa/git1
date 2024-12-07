@@ -1,3 +1,3 @@
 print('My first git program')
-print('Hello')
+print('Hello, Python!')
 print('12345')
